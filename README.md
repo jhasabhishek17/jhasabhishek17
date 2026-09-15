@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<!-- Social Links Badges (Twitter Removed) -->
+<!-- Social Links Badges -->
 <a href="mailto:jhasabhishek17@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/abhii-j/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" alt="LinkedIn"/></a>
 <a href="https://github.com/jhasabhishek17"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29" alt="GitHub"/></a>
@@ -18,9 +18,10 @@
 
 <br/><br/>
 
-<!-- Location & Live 12-Hour Local Time Badges -->
+<!-- Location, Live Weather & 12-Hour Local Time Badges -->
 <img src="https://img.shields.io/badge/%F0%9F%93%9D%20Location-Delhi%2C%20India-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0f0c29" alt="Location"/>
-<img src="https://img.shields.io/badge/%F0%9F%95%92%20Local%20Time-05%3A24%20PM%20IST%20%E2%80%94%20Delhi%2C%20India-8A2BE2?style=for-the-badge&labelColor=0f0c29" alt="Local Time"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%A1%EF%B8%8F%20Live%20Weather-31%C2%B0C%20%E2%80%94%20Delhi%2C%20India-8A2BE2?style=for-the-badge&labelColor=0f0c29" alt="Live Weather"/>
+<img src="https://img.shields.io/badge/%F0%9F%95%92%20Local%20Time-05%3A29%20PM%20IST%20%E2%80%94%20Delhi%2C%20India-8A2BE2?style=for-the-badge&labelColor=0f0c29" alt="Local Time"/>
 
 </div>
 
@@ -138,11 +139,6 @@ Architecting end-to-end production applications
 <a href="https://github.com/jhasabhishek17">
   <img src="https://streak-stats.demolab.com/?user=jhasabhishek17&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" width="80%"/>
 </a>
-
-<br/><br/>
-
-<!-- Dynamic GitHub Snake Animation -->
-<img src="https://raw.githubusercontent.com/jhasabhishek17/jhasabhishek17/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="90%"/>
 
 <br/><br/>
 

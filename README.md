@@ -21,7 +21,7 @@
 <!-- Location, Live Weather & 12-Hour Local Time Badges -->
 <img src="https://img.shields.io/badge/%F0%9F%93%9D%20Location-Delhi%2C%20India-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0f0c29" alt="Location"/>
 <img src="https://img.shields.io/badge/%F0%9F%8C%A1%EF%B8%8F%20Live%20Weather-31%C2%B0C%20%E2%80%94%20Delhi%2C%20India-8A2BE2?style=for-the-badge&labelColor=0f0c29" alt="Live Weather"/>
-<img src="https://img.shields.io/badge/%F0%9F%95%92%20Local%20Time-05%3A29%20PM%20IST%20%E2%80%94%20Delhi%2C%20India-8A2BE2?style=for-the-badge&labelColor=0f0c29" alt="Local Time"/>
+<img src="https://img.shields.io/badge/%F0%9F%95%92%20Local%20Time-05%3A30%20PM%20IST%20%E2%80%94%20Delhi%2C%20India-8A2BE2?style=for-the-badge&labelColor=0f0c29" alt="Local Time"/>
 
 </div>
 
@@ -129,8 +129,8 @@ Architecting end-to-end production applications
 
 <!-- Working GitHub Stats Mirror & Top Languages -->
 <a href="https://github.com/jhasabhishek17">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jhasabhishek17&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhasabhishek17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-nu.vercel.app/api?username=jhasabhishek17&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-nu.vercel.app/api/top-langs/?username=jhasabhishek17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd" alt="Top Languages" />
 </a>
 
 <br/><br/>

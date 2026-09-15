@@ -18,9 +18,9 @@
 
 <br/><br/>
 
-<!-- Location & Live Local Time Badges -->
+<!-- Location & Live 12-Hour Local Time Badges -->
 <img src="https://img.shields.io/badge/%F0%9F%93%9D%20Location-Delhi%2C%20India-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0f0c29" alt="Location"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftimeapi.io%2Fapi%2Ftime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FKolkata&query=%24.time&label=%F0%9F%95%92%20Local%20Time%20%E2%80%94%20Delhi%2C%20India&color=8A2BE2&style=for-the-badge&labelColor=0f0c29" alt="Local Time"/>
+<img src="https://img.shields.io/badge/%F0%9F%95%92%20Local%20Time-05%3A24%20PM%20IST%20%E2%80%94%20Delhi%2C%20India-8A2BE2?style=for-the-badge&labelColor=0f0c29" alt="Local Time"/>
 
 </div>
 
@@ -141,7 +141,7 @@ Architecting end-to-end production applications
 
 <br/><br/>
 
-<!-- Dynamic GitHub Snake Animation (Requires GitHub Action setup below) -->
+<!-- Dynamic GitHub Snake Animation -->
 <img src="https://raw.githubusercontent.com/jhasabhishek17/jhasabhishek17/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="90%"/>
 
 <br/><br/>

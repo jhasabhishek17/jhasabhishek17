@@ -129,15 +129,15 @@ Architecting end-to-end production applications
 
 <!-- Working GitHub Stats Mirror & Top Languages -->
 <a href="https://github.com/jhasabhishek17">
-  <img height="180em" src="https://github-readme-stats-eight-nu.vercel.app/api?username=jhasabhishek17&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-eight-nu.vercel.app/api/top-langs/?username=jhasabhishek17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=jhasabhishek17&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jhasabhishek17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd" alt="Top Languages" />
 </a>
 
 <br/><br/>
 
 <!-- GitHub Streak Stats -->
 <a href="https://github.com/jhasabhishek17">
-  <img src="https://streak-stats.demolab.com/?user=jhasabhishek17&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" width="80%"/>
+  <img src="https://streak-stats.demolab.com/?user=jhasabhishek17&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&include_all_commits=true" alt="GitHub Streak" width="80%"/>
 </a>
 
 <br/><br/>

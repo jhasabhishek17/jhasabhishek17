@@ -20,7 +20,7 @@
 
 <!-- Location, Live Weather & 12-Hour Local Time Badges -->
 <img src="https://img.shields.io/badge/%F0%9F%93%9D%20Location-Delhi%2C%20India-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0f0c29" alt="Location"/>
-<img src="https://img.shields.io/badge/%F0%9F%8C%A1%EF%B8%8F%20Live%20Weather-25%C2%B0C%20%E2%80%94%20Delhi%2C%20India-8A2BE2?style=for-the-badge&labelColor=0f0c29" alt="Live Weather"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%A1%EF%B8%8F%20Live%20Weather-24%C2%B0C%20%E2%80%94%20Delhi%2C%20India-8A2BE2?style=for-the-badge&labelColor=0f0c29" alt="Live Weather"/>
 <img src="https://img.shields.io/badge/%F0%9F%95%92%20Local%20Time-01:49%20PM%20IST%20%E2%80%94%20Delhi%2C%20India-8A2BE2?style=for-the-badge&labelColor=0f0c29" alt="Local Time"/>
 
 </div>

@@ -127,9 +127,14 @@ Architecting end-to-end production applications
 
 <br/><br/>
 
+<!-- GitHub Profile Summary Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhasabhishek17&theme=tokyonight" alt="GitHub Profile Summary" width="95%"/>
+
+<br/><br/>
+
 <!-- Working GitHub Stats Mirror & Top Languages -->
 <a href="https://github.com/jhasabhishek17">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=jhasabhishek17&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=jhasabhishek17&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jhasabhishek17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd" alt="Top Languages" />
 </a>
 

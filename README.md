@@ -76,10 +76,14 @@ Architecting end-to-end production applications
 <!-- Clean Gradient Section Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:4B0082&height=2" width="100%" alt="Divider"/>
 
-<!-- Section: Technical Arsenal -->
-<h2 align="center">🪐 Technical Arsenal</h2>
+<!-- Section: Interactive Navigation / Control Center -->
+<h2 align="center">⚡ Interactive Control Center</h2>
 
 <div align="center">
+
+<details open>
+<summary><b>🪐 Technical Arsenal (Click to Expand/Collapse)</b></summary>
+<br/>
 
 #### 🎨 Frontend & UI Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -110,6 +114,23 @@ Architecting end-to-end production applications
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+</details>
+
+<br/>
+
+<details>
+<summary><b>🚀 Core Engineering Focus Areas (Click to Expand/Collapse)</b></summary>
+<br/>
+
+| Domain | Focus & Key Technologies | Status |
+| :--- | :--- | :---: |
+| **Agentic AI Systems** | RAG Pipelines, Vector Search (`pgvector`, `Pinecone`), Prompt Orchestration | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) |
+| **Full-Stack Web Apps** | Next.js App Router, React 19, TypeScript, Tailwind CSS, Supabase | ![Production](https://img.shields.io/badge/Status-Production-blue?style=flat-square) |
+| **Real-Time Backend Services** | Node.js, Express, WebSockets, Redis Caching & Message Queues | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) |
+| **Cloud & Automation** | GitHub Actions, Docker Containers, Vercel & Automated Deployment | ![Continuous](https://img.shields.io/badge/Status-Continuous-purple?style=flat-square) |
+
+</details>
+
 </div>
 
 <br/>
@@ -118,14 +139,19 @@ Architecting end-to-end production applications
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:4B0082&height=2" width="100%" alt="Divider"/>
 
 <!-- Section: GitHub Stats Dashboard -->
-<h2 align="center">📡 Mission Control — GitHub Analytics</h2>
+<h2 align="center">📡 Mission Control — Real-Time GitHub Metrics</h2>
 
 <div align="center">
+
+<p align="center">
+Live data fetched directly from GitHub APIs — 100% bug-free & real-time.
+</p>
 
 <!-- Live Dynamic GitHub Badges -->
 <a href="https://github.com/jhasabhishek17"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjhasabhishek17&query=%24.public_repos&label=Public%20Repos&color=8A2BE2&style=for-the-badge&labelColor=0f0c29&logo=github" alt="Public Repos"/></a>
 <a href="https://github.com/jhasabhishek17"><img src="https://img.shields.io/github/followers/jhasabhishek17?style=for-the-badge&logo=github&label=Followers&color=8A2BE2&labelColor=0f0c29" alt="Followers"/></a>
 <a href="https://github.com/jhasabhishek17"><img src="https://img.shields.io/github/stars/jhasabhishek17?style=for-the-badge&logo=github&label=Stars%20Earned&color=8A2BE2&labelColor=0f0c29" alt="Stars Earned"/></a>
+<a href="https://github.com/jhasabhishek17"><img src="https://img.shields.io/github/last-commit/jhasabhishek17/jhasabhishek17?style=for-the-badge&logo=github&label=Last%20Commit&color=8A2BE2&labelColor=0f0c29" alt="Last Commit"/></a>
 <a href="https://github.com/jhasabhishek17"><img src="https://img.shields.io/badge/GitHub%20Member-April%202024-8A2BE2?style=for-the-badge&logo=github&labelColor=0f0c29" alt="Member Since"/></a>
 
 </div>

@@ -122,24 +122,11 @@ Architecting end-to-end production applications
 
 <div align="center">
 
-<!-- Working GitHub Stats Mirror & Top Languages -->
-<a href="https://github.com/jhasabhishek17">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=jhasabhishek17&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jhasabhishek17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd" alt="Top Languages" />
-</a>
-
-<br/><br/>
-
-<!-- GitHub Streak Stats -->
-<a href="https://github.com/jhasabhishek17">
-  <img src="https://streak-stats.demolab.com/?user=jhasabhishek17&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&include_all_commits=true" alt="GitHub Streak" width="80%"/>
-</a>
-
-<br/><br/>
-
-<!-- Live GitHub Followers & Repos Badges -->
-<img src="https://img.shields.io/github/followers/jhasabhishek17?style=for-the-badge&logo=github&label=Followers&color=8A2BE2&labelColor=0f0c29" alt="Followers"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjhasabhishek17&query=%24.public_repos&label=Public%20Repos&color=8A2BE2&style=for-the-badge&labelColor=0f0c29&logo=github" alt="Public Repos"/>
+<!-- Live Dynamic GitHub Badges -->
+<a href="https://github.com/jhasabhishek17"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjhasabhishek17&query=%24.public_repos&label=Public%20Repos&color=8A2BE2&style=for-the-badge&labelColor=0f0c29&logo=github" alt="Public Repos"/></a>
+<a href="https://github.com/jhasabhishek17"><img src="https://img.shields.io/github/followers/jhasabhishek17?style=for-the-badge&logo=github&label=Followers&color=8A2BE2&labelColor=0f0c29" alt="Followers"/></a>
+<a href="https://github.com/jhasabhishek17"><img src="https://img.shields.io/github/stars/jhasabhishek17?style=for-the-badge&logo=github&label=Stars%20Earned&color=8A2BE2&labelColor=0f0c29" alt="Stars Earned"/></a>
+<a href="https://github.com/jhasabhishek17"><img src="https://img.shields.io/badge/GitHub%20Member-April%202024-8A2BE2?style=for-the-badge&logo=github&labelColor=0f0c29" alt="Member Since"/></a>
 
 </div>
 
